@@ -1,0 +1,11 @@
+assessment_name,skills,job_role,difficulty,duration
+Coding Skills Test,Python;Data Structures;Algorithms;Problem Solving,Software Engineer,Medium,60
+Cognitive Ability Test,Logical Reasoning;Critical Thinking;Numerical Ability,Software Engineer,Easy,45
+Situational Judgment Test,Decision Making;Communication;Workplace Behavior,All Roles,Easy,30
+Data Analysis Test,Python;SQL;Statistics;Data Interpretation,Data Analyst,Medium,60
+Personality Questionnaire,Behavior;Work Style;Team Fit,All Roles,Easy,25
+Java Programming Test,Java;OOP;Problem Solving,Software Engineer,Medium,60
+Aptitude Test,Quantitative Ability;Logical Reasoning;Verbal Ability,Graduate Trainee,Easy,40
+Leadership Assessment,Leadership;Decision Making;People Management,Manager,Hard,50
+Communication Skills Test,Verbal Communication;Written Skills;Grammar,Customer Support,Easy,30
+SQL Skills Test,SQL;Database Design;Queries,Data Analyst,Medium,45
